@@ -1,6 +1,6 @@
 <?php
 /**
- * CakePHP(tm) : Rapid Development Framework (http://cakephp.org)
+ * HELLO WORLD CakePHP(tm) : Rapid Development Framework (http://cakephp.org)
  * Copyright (c) Cake Software Foundation, Inc. (http://cakefoundation.org)
  *
  * Licensed under The MIT License
@@ -14,3 +14,4 @@
  */
 
 require 'webroot' . DIRECTORY_SEPARATOR . 'index.php';
+//HELLO WORLD
