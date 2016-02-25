@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # CakePHP Application Skeleton
 
 [![Build Status](https://img.shields.io/travis/cakephp/app/master.svg?style=flat-square)](https://travis-ci.org/cakephp/app)
@@ -28,3 +29,6 @@ configuration relevant for your application.
 =======
 # xualumni.github.io
 >>>>>>> 9369366e95141d740b5843757719df66776cf3c7
+=======
+# try
+>>>>>>> f87fdb2ae001f8bf33674cb011a99b64850fb83e
