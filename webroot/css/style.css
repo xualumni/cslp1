@@ -1,0 +1,102 @@
+#login_content{
+	display: table;
+	width: 100%;
+	height: 100%;
+}
+
+#content{
+	display: table-cell;
+	text-align: center;
+	vertical-align: middle;
+}
+
+#login_content h1{
+	margin-left:-18;
+	font-family: myriad-set-pro_text;
+	font-size:14px;
+	display:inline;
+}
+
+#login_content img{
+	height:62px;
+}
+
+#login_content p{
+	display:inline;
+	font-family: myriad-set-pro_text;
+	font-size:14px;
+}
+
+#login_content a{
+	text-decoration:none;
+	color:#00af49;
+}
+
+#login_content input[type=text]{
+	height:34px;
+	width:250px;
+	margin-top:-10;
+	border: 2px solid #dadada;
+	padding:6px;
+}
+
+#login_content input{
+	padding:6px;
+	font-family: myriad-set-pro_text;
+	font-size:13px;
+}
+
+#login_content input[type=password]{
+	height:34px;
+	width:250px;
+	margin-top:12px;
+	border: 2px solid #dadada;
+}
+
+#login_content input[type=text]:focus{
+	outline: none;
+    border-color: #00af49;
+    box-shadow: 0 0 5px #00af49;
+}
+
+#login_content input[type=password]:focus{
+	outline: none;
+    border-color: #00af49;
+    box-shadow: 0 0 5px #00af49;
+}
+
+#login_content input[type=checkbox]{
+	margin-left:-123;
+}
+
+#login_content input[type=submit]{
+	width:100px;
+	height:34px;
+	background-color: #00af49;
+	text-align:center;
+	font-family: myriad-set-pro_semibold;
+	margin-left:-148;
+	font-size:15px;
+	color:white;
+	border:none;
+}
+
+@font-face{
+	font-family: "myriad-set-pro_text";
+	src:url(fonts/myriad-set-pro_text.ttf);
+}
+
+@font-face{
+	font-family: "myriad-set-pro_medium";
+	src:url(fonts/myriad-set-pro_medium.ttf)
+}
+
+@font-face{
+	font-family: "myriad-set-pro_semibold";
+	src:url(fonts/myriad-set-pro_semibold.ttf)
+}
+
+@font-face{
+	font-family: "myriad-set-pro_bold";
+	src:url(fonts/myriad-set-pro_bold.ttf)
+}
